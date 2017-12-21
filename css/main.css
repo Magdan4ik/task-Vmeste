@@ -278,6 +278,13 @@ a {
 	position: relative;
 	top: 90px;
 	left: 20px;
+	transition: 0.3s all;
+}
+
+.slider__link:hover {
+	color: #000;
+	background-color: #ffea00;
+	border-bottom: 3px solid #000;
 }
 
 
